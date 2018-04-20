@@ -30,3 +30,14 @@ C:\Code\Source Code\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debu
 C:\Code\Source Code\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.AssemblyInfo.cs
 C:\Code\Source Code\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.dll
 C:\Code\Source Code\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.pdb
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\bin\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.deps.json
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\bin\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.runtimeconfig.json
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\bin\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.runtimeconfig.dev.json
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\bin\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.dll
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\bin\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.pdb
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.csprojResolveAssemblyReference.cache
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.csproj.CoreCompileInputs.cache
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.AssemblyInfoInputs.cache
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.AssemblyInfo.cs
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.dll
+F:\Codes\Test\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\DynamicLinqWithEfCoreTest\obj\Debug\netcoreapp2.0\DynamicLinqWithEfCoreTest.pdb

@@ -37,7 +37,7 @@ namespace DynamicLinqWithEfCoreTest
                 context.SaveChanges();
             }
 
-            for (var i = 0; i <= 100_000; i++)
+            for (var i = 0; i <= 10_000; i++)
             {
                 using (var context = new TestContext())
                 {
@@ -48,7 +48,7 @@ namespace DynamicLinqWithEfCoreTest
             Console.WriteLine(sw.Elapsed);
             sw.Restart();
 
-            for (var i = 0; i <= 100_000; i++)
+            for (var i = 0; i <= 10_000; i++)
             {
                 using (var context = new TestContext())
                 {
@@ -57,6 +57,18 @@ namespace DynamicLinqWithEfCoreTest
             }
 
             Console.WriteLine(sw.Elapsed);
+            sw.Restart();
+
+            var expression = DynamicExpressionParser.ParseLambda(typeof(Person), null, $"$.Age==@0 and $.Name==@1", 1, "tom");
+            for (var i = 0; i <= 10_000; i++)
+            {
+                using (var context = new TestContext())
+                {
+                    var set = context.Set<Person>().Where(expression).ToDynamicList<Person>();
+                }
+            }
+            Console.WriteLine(sw.Elapsed);
+
             Console.ReadLine();
         }
     }
